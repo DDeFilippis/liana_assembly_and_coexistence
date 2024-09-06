@@ -1,1 +1,1 @@
-Look through headers of files to see where data is comming from and going.
+All code to reproduce statistical analyses will be pushed upon acceptance of the manuscript.
